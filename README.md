@@ -17,5 +17,3 @@ Here are my experiment results:
 | 2             | 66.83             |
 | 3             | 66.25             |
 
-## For NTU student
-If you are also taking SC4061/CZ4003 and is working on 3D stereo vision quesion in Lab2, feel free to check my implementation in the jupyter notebook
